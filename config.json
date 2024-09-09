@@ -1,0 +1,31 @@
+{
+	"package_directory": "$HOME/.local/share/payload/packages",
+	"active_profile": "competitive",
+
+	"profiles": [
+		{
+			"name": "competitive",
+			"description": "Competitive profile",
+			"packages": [
+				{
+					"author": "conor-sometimes",
+					"repo": "payload-example-package",
+					"url": "https://github.com/conor-sometimes/payload-example-package",
+					"version": "0.0.0"
+				}
+			]
+		},
+		{
+			"name": "casual",
+			"description": "casual profile",
+			"packages": [
+				{
+					"author": "conor-sometimes",
+					"repo": "payload-example-package",
+					"url": "https://github.com/conor-sometimes/payload-example-package",
+					"version": "0.0.0"
+				}
+			]
+		}
+	]
+}

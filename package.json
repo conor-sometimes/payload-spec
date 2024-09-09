@@ -1,0 +1,22 @@
+{
+	"name": "payload-example-package",
+	"description": "an example package for testing the payload package manager",
+	"author": "conor-sometimes",
+	"author_url": "https://github/conor-sometimes",
+	"version": "0.0.1",
+	"repo_url": "https://github.com/conor-sometimes/payload-example-package",
+	"files": [
+		{
+			"name": "cfg/autoexec.cfg",
+			"location": "cfg"
+		},
+		{
+			"name": "cfg/scout.cfg",
+			"location": "cfg"
+		},
+		{
+			"name": "cfg/sniper.cfg",
+			"location": "cfg"
+		}
+	]
+}
